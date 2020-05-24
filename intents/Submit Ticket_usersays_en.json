@@ -1,0 +1,74 @@
+[
+  {
+    "id": "81f553ae-63ad-4e50-bd1c-289de64dcb10",
+    "data": [
+      {
+        "text": "I have a problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffccf6ce-de00-4f8a-be6c-f11a3661e4ac",
+    "data": [
+      {
+        "text": "I want to submit a ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "250d9c73-64ab-4410-a663-8eef182be159",
+    "data": [
+      {
+        "text": "Issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0da2568d-0e44-459d-9b3b-71ce8eccaacb",
+    "data": [
+      {
+        "text": "Problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80a44cd2-a9aa-4212-a520-7435436ad61f",
+    "data": [
+      {
+        "text": "Submit ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "227a968e-1687-4c8f-adeb-a279a3aee726",
+    "data": [
+      {
+        "text": "Ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
